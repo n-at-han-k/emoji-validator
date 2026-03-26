@@ -3,7 +3,7 @@
 require_relative "lib/emoji_validator/version"
 
 Gem::Specification.new do |spec|
-  spec.name        = "emoji_validator"
+  spec.name        = "emoji-validator-rails"
   spec.version     = EmojiValidator::VERSION
   spec.authors     = ["Nathan Kidd"]
   spec.email       = ["nathankidd@hey.com"]
